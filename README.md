@@ -11,3 +11,4 @@ Technologies:
 * NumPy, SciPy
 * Librosa
 * Scikit-learn
+Hybrid DSP and Machine Learning framework for EEG seizure detection using FFT, STFT, wavelets, and entropy analysis.
